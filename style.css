@@ -1,0 +1,22 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+canvas{
+    display: block;
+    position: absolute;
+    top: 200px;
+    left: 500px;
+}
+
+p{
+    position: absolute;
+    top: 600px;
+    left: 630px;
+    color: white
+}
+line{
+    color: white;
+}
